@@ -1,0 +1,10 @@
+#canvasBox {
+  width: 100%;
+  height: 100%;
+
+  & .canvas {
+    background-image: url('../../images/metro_tech.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}

@@ -1,3 +1,7 @@
+## drawing-board
+web page of 2 rows, each contains 3 different images.
+Each image will be fetch from your web server and displayed on the screen.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
